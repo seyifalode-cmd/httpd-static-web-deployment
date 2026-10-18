@@ -1,5 +1,7 @@
 # HTTPD Static Web Deployment
 
+Oluwaseyi Michael Falode | Cloud & DevOps Engineering | Toronto, ON
+
 Provisioning an AWS EC2 instance with Terraform and configuring it as an Apache web server using Ansible — fully automated from infrastructure creation to content deployment, with zero manual steps after `terraform apply`.
 
 ---
